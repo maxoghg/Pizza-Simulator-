@@ -1,2 +1,2 @@
 # Pizza-Simulator-
-Baut euch eure eigene Pizzeria auf und bedient Kunden.
+Baut euch eure eigene Pizzeria auf und bedient Kunden.Schnappt euch ein Freunde ( Freundinnen )
